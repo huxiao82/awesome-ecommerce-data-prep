@@ -23,7 +23,11 @@ Tired of writing Python scripts or watching Excel freeze on a 2GB file?
 
 This repository is proudly maintained by **[dataprep.dev](https://dataprep.dev)** — The Browser Data Toolkit. We built a pure WebAssembly (DuckDB-Wasm) engine to solve all the problems listed below. 
 
-> *(🔥 Action needed: Replace this quote block with a 5-second GIF showing your tool cleaning 100k rows instantly.)*
+
+https://github.com/user-attachments/assets/334bad31-2b7f-4ba2-9211-df8a324b6764
+
+
+
 
 * ⚡ **Blazing Fast**: Process millions of rows in seconds.
 * 🛡️ **Zero Uploads**: Everything runs entirely in your browser's memory. Your sensitive data never touches a cloud server.
